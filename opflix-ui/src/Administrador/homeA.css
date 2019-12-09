@@ -1,0 +1,32 @@
+h1{
+    color:white;
+    text-align: center;
+    font-size: 50px;
+}
+
+.homeA {
+    border-width: medium;
+    border-style: solid;
+    border-color: rgb(255, 208, 0);
+    height: 150px;
+    width: 1200px;
+    margin-left: 110px;
+    margin-top: 25px;
+}
+
+.ce{
+    margin-top: 50px ;
+    margin-left: 570px;
+}
+
+.li{
+    margin-top: 10px;
+    display: flex;
+    margin-left: 580px;
+}
+
+h2{
+    text-align: center;
+    margin-top: 100px;
+}
+

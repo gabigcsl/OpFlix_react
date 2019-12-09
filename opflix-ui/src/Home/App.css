@@ -1,0 +1,55 @@
+
+body{
+  background-color: rgba(19, 17, 17, 0.918);
+  height:90vh;
+
+}
+
+
+
+.caixa h1{
+color: white;
+font-family: 'Bungee Shade', cursive;
+font-size: 145px;
+}
+
+#logar{
+width: 200px;
+height: 30px;
+background-color: rgb(255, 208, 0);
+font-family: 'Changa', sans-serif;
+font-size: 19px;
+border: rgb(255, 208, 0);
+}
+
+#cadastro{
+  width: 400px;
+  height: 30px;
+background-color: rgb(255, 208, 0);
+font-family: 'Changa', sans-serif;
+font-size: 19px;
+border: rgb(255, 208, 0);
+}
+
+ .caixa button {
+  color: black;
+  cursor:pointer;
+}
+
+.botao {
+  display: block;
+  width: 100px;
+  margin: auto;
+}
+
+.cadastro {
+  margin-bottom:50px;
+}
+
+.caixa {
+  text-align: center;
+  border-width: medium;
+  border-style: solid;
+  border-color: rgb(255, 208, 0);
+  margin: 30px;
+}

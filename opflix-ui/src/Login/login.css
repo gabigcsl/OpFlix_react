@@ -1,0 +1,49 @@
+.login{
+    display: flex;
+}
+
+ .log{
+    color:white;
+    text-align: end;
+    font-size: 60px;
+    padding: 10px;
+
+}
+
+.titulo{
+    border-width: medium;
+    border-style: solid;
+    border-color: rgb(255, 208, 0);
+    border-left: 0;
+    /* background-color: rgb(255, 208, 0); */
+    height: 200px;
+    width: 600px;
+    margin-top: 250px;
+}
+
+.dados{
+margin: 210px  30px  50px   280px;
+}
+
+h2{
+    color: rgb(255, 208, 0);
+    font-size: 30px;
+}
+
+p {
+    color: white;
+    font-size: 20px
+}
+
+input {
+    width: 330px;
+    height: 30px;
+    border: rgb(255, 208, 0);
+    color: black;
+}
+
+.entrar{
+    color:white;
+    font-size: 20px;
+        
+}
