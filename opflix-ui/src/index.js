@@ -12,7 +12,7 @@ import cadastro from './Cadastro/cadastro';
 import categorias from './Categorias/categorias';
 import listar from './ListaL/listar';
 import cadastrarCat from './CategoriaC/cadastrarCat';
-
+import mapa from './Mapa/mapa';
 
 //routes
 
@@ -47,6 +47,8 @@ const routing =(
                 <Route path='/listar' component={listar} /> 
 
                 <Route path='/cadastrarCat' component={cadastrarCat} /> 
+
+                <Route path='/mapa' component= {mapa}></Route>
 
                 <RotaPrivada  path='/categorias' component= {categorias}/>   
 

@@ -20,6 +20,10 @@ listar = (event) => {
     this.props.history.push('/categorias')
 }
 
+mapa = (event) => {
+    this.props.history.push('/mapa')
+}
+
 render(){
     return(
         <div className="homeA">
@@ -43,6 +47,11 @@ render(){
 
         <div className="li">
         <button onClick = {this.listar}>Listar</button>
+        </div>
+
+
+        <div className="mapa">
+        <button onClick = {this.mapa}>MAPA</button>
         </div>
 
 
