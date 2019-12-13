@@ -26,3 +26,17 @@ C:\Users\44610650819\Documents\OpFlix\2s2019-sprint-1-bd-\OpFlix\Senai.OpFilx.We
 C:\Users\44610650819\Documents\OpFlix\2s2019-sprint-1-bd-\OpFlix\Senai.OpFilx.WebApi.sln\obj\Debug\netcoreapp2.1\Senai.OpFilx.WebApi.sln.RazorTargetAssemblyInfo.cache
 C:\Users\44610650819\Documents\OpFlix\2s2019-sprint-1-bd-\OpFlix\Senai.OpFilx.WebApi.sln\obj\Debug\netcoreapp2.1\Senai.OpFilx.WebApi.sln.dll
 C:\Users\44610650819\Documents\OpFlix\2s2019-sprint-1-bd-\OpFlix\Senai.OpFilx.WebApi.sln\obj\Debug\netcoreapp2.1\Senai.OpFilx.WebApi.sln.pdb
+C:\Users\44610650819\Documents\opflix_react\OpFlix_react\Senai.OpFilx.WebApi.sln\bin\Debug\netcoreapp2.1\Senai.OpFilx.WebApi.sln.deps.json
+C:\Users\44610650819\Documents\opflix_react\OpFlix_react\Senai.OpFilx.WebApi.sln\bin\Debug\netcoreapp2.1\Senai.OpFilx.WebApi.sln.runtimeconfig.json
+C:\Users\44610650819\Documents\opflix_react\OpFlix_react\Senai.OpFilx.WebApi.sln\bin\Debug\netcoreapp2.1\Senai.OpFilx.WebApi.sln.runtimeconfig.dev.json
+C:\Users\44610650819\Documents\opflix_react\OpFlix_react\Senai.OpFilx.WebApi.sln\bin\Debug\netcoreapp2.1\Senai.OpFilx.WebApi.sln.dll
+C:\Users\44610650819\Documents\opflix_react\OpFlix_react\Senai.OpFilx.WebApi.sln\bin\Debug\netcoreapp2.1\Senai.OpFilx.WebApi.sln.pdb
+C:\Users\44610650819\Documents\opflix_react\OpFlix_react\Senai.OpFilx.WebApi.sln\obj\Debug\netcoreapp2.1\Senai.OpFilx.WebApi.sln.csprojAssemblyReference.cache
+C:\Users\44610650819\Documents\opflix_react\OpFlix_react\Senai.OpFilx.WebApi.sln\obj\Debug\netcoreapp2.1\Senai.OpFilx.WebApi.sln.csproj.CoreCompileInputs.cache
+C:\Users\44610650819\Documents\opflix_react\OpFlix_react\Senai.OpFilx.WebApi.sln\obj\Debug\netcoreapp2.1\Senai.OpFilx.WebApi.sln.RazorAssemblyInfo.cache
+C:\Users\44610650819\Documents\opflix_react\OpFlix_react\Senai.OpFilx.WebApi.sln\obj\Debug\netcoreapp2.1\Senai.OpFilx.WebApi.sln.RazorAssemblyInfo.cs
+C:\Users\44610650819\Documents\opflix_react\OpFlix_react\Senai.OpFilx.WebApi.sln\obj\Debug\netcoreapp2.1\Senai.OpFilx.WebApi.sln.AssemblyInfoInputs.cache
+C:\Users\44610650819\Documents\opflix_react\OpFlix_react\Senai.OpFilx.WebApi.sln\obj\Debug\netcoreapp2.1\Senai.OpFilx.WebApi.sln.AssemblyInfo.cs
+C:\Users\44610650819\Documents\opflix_react\OpFlix_react\Senai.OpFilx.WebApi.sln\obj\Debug\netcoreapp2.1\Senai.OpFilx.WebApi.sln.RazorTargetAssemblyInfo.cache
+C:\Users\44610650819\Documents\opflix_react\OpFlix_react\Senai.OpFilx.WebApi.sln\obj\Debug\netcoreapp2.1\Senai.OpFilx.WebApi.sln.dll
+C:\Users\44610650819\Documents\opflix_react\OpFlix_react\Senai.OpFilx.WebApi.sln\obj\Debug\netcoreapp2.1\Senai.OpFilx.WebApi.sln.pdb
